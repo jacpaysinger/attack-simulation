@@ -12,8 +12,20 @@ This lab simulates an attack scenario within an Azure environment to observe aut
 ## Prerequisites
 - An Azure account with a deployed VMs (Windows and Linux) with open Network Security Groups
 - Admin permissions to create resources
+
+## Technologies Used
+
+- Microsoft Azure
+- Windows Virtual Machines (VM)
+- Linux Virtual Machines (VM)
+- Remote Desktop Protocol (RDP)
+- Microsoft SQL Server (MS SQL)
+- SQL Server Management Studio (SSMS)
+- Secure Shell (SSH)
+- Windows Event Logs
+- Linux System Logs
   
-## Environment Setup  
+## Lab Steps  
 
 ### 1. Admin Mode (Simulating Normal Admin Activity)
 I start by creating a new Windows VM within the Azure tenent. This VM is deployed outside of the US and will serve as the attacker VM.
