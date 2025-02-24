@@ -7,7 +7,7 @@ This lab simulates an attack scenario within an Azure environment to observe aut
 - Simulate common attack vectors on RDP, SQL authentication, and SSH to observe real-world attack patterns.  
 - Identify and review authentication failures in Windows Event Viewer and Linux log files to understand how Azure logs suspicious activity.  
 - Observe how failed authentication attempts generate alerts and logs, aiding in proactive security monitoring and response.  
-- Evaluate the effectiveness of security controls, such as monitoring, logging, and access restrictions, to enhance Azure AD and VM security.
+- Evaluate the effectiveness of security controls, such as monitoring, logging, and access restrictions, to enhance Microsoft Entra ID and VM security.
   
 ## Prerequisites
 - An Azure account with a deployed VMs (Windows and Linux) with open Network Security Groups
